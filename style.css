@@ -1,0 +1,22 @@
+body
+{
+    background-color: lime;
+    font-size: 25px;
+}
+
+#score
+{
+    color: palevioletred;
+    margin-left: 30px;
+}
+
+#timer
+{
+    color: royalblue;
+    margin-left: 1000px;
+}
+
+#sketch_to_be_drawn
+{
+    color: red;
+}
